@@ -9,3 +9,5 @@ try:
 except AssertionError:
     print("Failure")
 
+print("complete")
+
